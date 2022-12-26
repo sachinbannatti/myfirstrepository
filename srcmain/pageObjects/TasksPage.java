@@ -94,9 +94,7 @@ public class TasksPage {
 	public void clickOnDeleteButton() {
 		clickOnDeleteButton.click();
 	}
-	public void clickOnPernmentDelete() {
-		clickOnPernmentDelete.click();
-	}
+	
 }
 
 
